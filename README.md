@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=secrets+I+have+held+in+my+heart;are+harder+to+hide+than+I+thought;maybe+I+just+wanna+be+yours" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=secrets+I+have+held+in+my+heart;are+harder+to+hide+than+I+thought;maybe+I+just+wanna+be+yours" alt="Typing SVG" />
   </a>
 </p>
