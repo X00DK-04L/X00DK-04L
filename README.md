@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  [![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
