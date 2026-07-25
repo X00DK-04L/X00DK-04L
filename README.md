@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/abc123..." alt="music" width="50%">
+  <img src="./music.jpg" alt="music" width="50%">
 </p>
 
 <p align="center">
