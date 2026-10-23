@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./music.jpg" alt="music" width="45%">
+  <img src="./bruh.jpg" alt="bruh" width="45%">
 </p>
 
 <p align="center">
